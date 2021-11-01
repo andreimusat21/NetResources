@@ -625,8 +625,8 @@
 <details> 
   <summary>Expand</summary>
 
-* [Kubernetes patterns](https://www.wallarm.com/what/top-kubernetes-design-patterns)
-
+* [Kubernetes patterns - CPD](https://www.wallarm.com/what/top-kubernetes-design-patterns)
+* [Complete Kubernetes - CPD](https://cognizant.udemy.com/course/learn-devops-the-complete-kubernetes-course/)
 </details>
 
 ## **DotNet and JS**
