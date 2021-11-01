@@ -12,6 +12,7 @@
 * [Other resources](#other-resources)
 * [Certifications](#certifications)
 * [Server Administration](#server-administration)
+* [DotNet and JS](#dotnet-and-JS)
 
 
 ## **VERSIONS AND HISTORY**
@@ -620,7 +621,7 @@
 
 </details>
 
-## **DotNet & JS**
+## **DotNet and JS**
 <details> 
   <summary>Expand</summary>
 
