@@ -608,3 +608,13 @@
 * [AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
 </details>
+
+## **Server Administration**
+
+<details> 
+  <summary>Expand</summary>
+
+* [Linux Ubuntu Server](https://cognizant.udemy.com/course/the-perfect-nginx-server-ubuntu-edition/)
+* [Windows Server 2019 Admin](https://cognizant.udemy.com/course/windows-server-2019-administration-h/)
+
+</details>
