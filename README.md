@@ -621,6 +621,14 @@
 
 </details>
 
+## **Kubernetes**
+<details> 
+  <summary>Expand</summary>
+
+* [Kubernetes patterns](https://www.wallarm.com/what/top-kubernetes-design-patterns)
+
+</details>
+
 ## **DotNet and JS**
 <details> 
   <summary>Expand</summary>
