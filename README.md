@@ -571,7 +571,7 @@
 * [Working Effectively with Legacy Code by Michael Feathers](https://google.com)
 * [Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booc ](https://google.com)
 * [The Pragmatic Programmer: From Journeyman to Master 1st Edition by Andrew Hunt, David Thomas](https://google.com)
-* [The Pragmatic Programmer: From Journeyman to Master 1st Edition by Andrew Hunt, David Thomas](https://google.com)
+* [Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin](https://google.com)
 </details>
 
 
