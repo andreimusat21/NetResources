@@ -619,3 +619,13 @@
 * [Windows Server 2019 Admin](https://cognizant.udemy.com/course/windows-server-2019-administration-h/)
 
 </details>
+
+## **DotNet & JS**
+<details> 
+  <summary>Expand</summary>
+
+* [Build an app with ASPNET Core and Angular from scratch](https://cognizant.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/)
+* [.Net Core & Angular](https://cognizant.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/)
+* [Complete guide to building an app with .Net Core and React](https://cognizant.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/)
+
+</details>
