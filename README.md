@@ -621,7 +621,7 @@
 
 </details>
 
-## **DotNet and JS (CPD GOALS)**
+## **DotNet and JS**
 <details> 
   <summary>Expand</summary>
 
