@@ -10,6 +10,7 @@
 * [Videos](#videos)
 * [Books](#books)
 * [Other resources](#other-resources)
+* [Certifications](#certifications)
 
 
 ## **VERSIONS AND HISTORY**
