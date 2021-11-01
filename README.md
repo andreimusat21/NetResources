@@ -606,8 +606,8 @@
 <details> 
   <summary>Expand</summary>
 
-* [AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
-* [AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+* [AZ-900: Microsoft Azure Fundamentals CPD](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+* [AZ-204: Developing Solutions for Microsoft Azure CPD](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
 </details>
 
