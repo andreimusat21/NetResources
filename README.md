@@ -565,13 +565,13 @@
 
 * [Clean code: A handbook of Agile Software Craftsmanship - *Robert C. Martin*](https://www.goodreads.com/book/show/3735293-clean-code)
 * [The passionate programmer - *Chad Fowler*](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
-* [The Clean Coder by Robert C. Martin*]
-* [A Philosophy of Software Design by John Ousterhout*]
-* [Building Maintainable Software, C# Edition: Ten Guidelines for Future-Proof Code by Joost Visser*]
-* [Working Effectively with Legacy Code by Michael Feathers*]
-* [Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booc *]
-* [The Pragmatic Programmer: From Journeyman to Master 1st Edition by Andrew Hunt, David Thomas*]
-* [The Pragmatic Programmer: From Journeyman to Master 1st Edition by Andrew Hunt, David Thomas*]
+* [The Clean Coder by Robert C. Martin*](https://google.com)
+* [A Philosophy of Software Design by John Ousterhout*](https://google.com)
+* [Building Maintainable Software, C# Edition: Ten Guidelines for Future-Proof Code by Joost Visser*](https://google.com)
+* [Working Effectively with Legacy Code by Michael Feathers*](https://google.com)
+* [Design Patterns: Elements of Reusable Object-Oriented Software (Addison-Wesley Professional Computing Series) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booc *](https://google.com)
+* [The Pragmatic Programmer: From Journeyman to Master 1st Edition by Andrew Hunt, David Thomas*](https://google.com)
+* [The Pragmatic Programmer: From Journeyman to Master 1st Edition by Andrew Hunt, David Thomas*](https://google.com)
 </details>
 
 
