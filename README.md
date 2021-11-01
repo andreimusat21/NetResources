@@ -597,3 +597,13 @@
 * [Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 
 </details>
+
+## **Certifications**
+
+<details> 
+  <summary>Expand</summary>
+
+* [AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+* [AZ-204: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+
+</details>
